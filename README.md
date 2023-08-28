@@ -7,7 +7,7 @@ Software Engineer working with Kubernetes at scale on AWS.
 <br>
 ☁️ Scalable Infrastructure
 <br>
-🧑‍💻 Open-source
+💻 Open Source
 <br>
 📍 Berlin / Remote
 
